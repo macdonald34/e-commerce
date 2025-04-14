@@ -9,6 +9,7 @@ const Navbar = () => {
         <li><a href="/">Home</a></li>
         <li><a href="/admin">Admin</a></li>
         <li><a href="/cart">Cart</a></li>
+        <li><a href="/"></a></li>
       </ul>
     </nav>
   );

@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "axios": "^1.8.4",
-    "react-router-dom": "file:material-ui/core@material-ui-icons"
+    "react-router-dom": "file:material-ui/core@material-ui-icons",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
   }
 }
